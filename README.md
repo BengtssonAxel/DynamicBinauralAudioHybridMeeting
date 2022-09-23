@@ -13,3 +13,10 @@ The image seen above is the wiring schematic of the head tracking assembly place
 The image seen above is the wiring schematic of the platform for the microphones. It consists of an Arduino Uno on which a stepper motor is connected. 
 
 The two Arduinos are each connected to two separate computers running a server and a client. It is via the server the two Arduino boards can communicate.
+
+## Images of the final product
+![IMG_1811](https://user-images.githubusercontent.com/25184812/191973076-0813b2ac-de6a-4536-9531-2cb9c41d184b.jpeg)
+![IMG_1812](https://user-images.githubusercontent.com/25184812/191973099-646d60f1-dec6-45bd-8cbd-056698bc3376.jpeg)
+![IMG_1813](https://user-images.githubusercontent.com/25184812/191973107-4e08a854-c8e7-4fe9-a64f-a5b592713db5.jpeg)
+![IMG_1814](https://user-images.githubusercontent.com/25184812/191973117-1670e66a-6d6b-4b96-8ea9-f79676880e00.jpeg)
+![IMG_1816](https://user-images.githubusercontent.com/25184812/191973123-24e8320f-d834-43d0-b011-171386c14ff1.jpeg)
